@@ -9,5 +9,3 @@
 ## Topics
 
 ### 3
-
-- ``Symbol``
