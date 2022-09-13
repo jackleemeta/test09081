@@ -7,7 +7,7 @@
 
 import Foundation
 
-/// 方法1
+/// 方法1 - update1
 public func method1() -> Int {
     return 1
 }
