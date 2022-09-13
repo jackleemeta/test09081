@@ -8,12 +8,13 @@
 import Foundation
 
 /// 方法1 - update1
+/// ``method2()``
 public func method1() -> Int {
     return 1
 }
 
 /// 方法2
-fileprivate func method2() {
+ func method2() {
     
 }
 

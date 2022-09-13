@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F140541628D0A8AD0008C2A2 /* Documentation.docc in Sources */ = {isa = PBXBuildFile; fileRef = F140541528D0A8AD0008C2A2 /* Documentation.docc */; };
 		F15BB33728D060DB0000D427 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15BB33628D060DB0000D427 /* AppDelegate.swift */; };
 		F15BB33928D060DB0000D427 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15BB33828D060DB0000D427 /* SceneDelegate.swift */; };
 		F15BB33B28D060DB0000D427 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15BB33A28D060DB0000D427 /* ViewController.swift */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		F140541528D0A8AD0008C2A2 /* Documentation.docc */ = {isa = PBXFileReference; lastKnownFileType = folder.documentationcatalog; path = Documentation.docc; sourceTree = "<group>"; };
 		F15BB33328D060DB0000D427 /* test0913.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = test0913.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F15BB33628D060DB0000D427 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F15BB33828D060DB0000D427 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -109,6 +111,7 @@
 				F15BB33F28D060DC0000D427 /* Assets.xcassets */,
 				F15BB34128D060DC0000D427 /* LaunchScreen.storyboard */,
 				F15BB34428D060DC0000D427 /* Info.plist */,
+				F140541528D0A8AD0008C2A2 /* Documentation.docc */,
 			);
 			path = test0913;
 			sourceTree = "<group>";
@@ -264,6 +267,7 @@
 				F15BB33B28D060DB0000D427 /* ViewController.swift in Sources */,
 				F15BB36728D061800000D427 /* MYTest.swift in Sources */,
 				F15BB33728D060DB0000D427 /* AppDelegate.swift in Sources */,
+				F140541628D0A8AD0008C2A2 /* Documentation.docc in Sources */,
 				F15BB33928D060DB0000D427 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

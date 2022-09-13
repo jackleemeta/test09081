@@ -1,8 +1,8 @@
 "/Users/tianxiaochen/test09081/test0913/test0913/ViewController.swift":
-  swiftsourceinfo: "/Users/tianxiaochen/test09081/test0913/build/test0913.build/Release-iphoneos/test0913.build/Objects-normal/arm64/test0913.swiftsourceinfo"
-  swiftdoc: "/Users/tianxiaochen/test09081/test0913/build/test0913.build/Release-iphoneos/test0913.build/Objects-normal/arm64/test0913.swiftdoc"
-  objc-header: "/Users/tianxiaochen/test09081/test0913/build/test0913.build/Release-iphoneos/test0913.build/Objects-normal/arm64/test0913-Swift.h"
-  diagnostics: "/Users/tianxiaochen/test09081/test0913/build/test0913.build/Release-iphoneos/test0913.build/Objects-normal/arm64/test0913-master.dia"
-  dependencies: "/Users/tianxiaochen/test09081/test0913/build/test0913.build/Release-iphoneos/test0913.build/Objects-normal/arm64/test0913-master.d"
   abi-baseline-json: "/Users/tianxiaochen/test09081/test0913/build/test0913.build/Release-iphoneos/test0913.build/Objects-normal/arm64/test0913.abi.json"
+  dependencies: "/Users/tianxiaochen/test09081/test0913/build/test0913.build/Release-iphoneos/test0913.build/Objects-normal/arm64/test0913-master.d"
+  swiftsourceinfo: "/Users/tianxiaochen/test09081/test0913/build/test0913.build/Release-iphoneos/test0913.build/Objects-normal/arm64/test0913.swiftsourceinfo"
+  diagnostics: "/Users/tianxiaochen/test09081/test0913/build/test0913.build/Release-iphoneos/test0913.build/Objects-normal/arm64/test0913-master.dia"
+  objc-header: "/Users/tianxiaochen/test09081/test0913/build/test0913.build/Release-iphoneos/test0913.build/Objects-normal/arm64/test0913-Swift.h"
   swiftmodule: "/Users/tianxiaochen/test09081/test0913/build/test0913.build/Release-iphoneos/test0913.build/Objects-normal/arm64/test0913.swiftmodule"
+  swiftdoc: "/Users/tianxiaochen/test09081/test0913/build/test0913.build/Release-iphoneos/test0913.build/Objects-normal/arm64/test0913.swiftdoc"

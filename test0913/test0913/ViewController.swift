@@ -15,5 +15,9 @@ class ViewController: UIViewController {
     }
 
 
+    public func vcMethod1() {
+        
+    }
+    
 }
 
